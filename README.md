@@ -8,7 +8,6 @@ Varun's Arch Linux + Hyprland dotfiles.
 - Terminal: Kitty
 - Shell: Zsh
 - Wallpaper: awww (formerly swww)
-- Theme: Catppuccin Mocha
 
 ## Usage
 ```bash
@@ -21,4 +20,3 @@ chmod +x install.sh
 ## Notes
 - Uses GNU Stow for symlinking configs into `~/.config`
 - `pkglist.txt` contains all explicitly installed packages
-- `awww` replaces `swww` — symlink handled automatically in `install.sh`
